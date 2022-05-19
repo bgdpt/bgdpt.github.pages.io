@@ -55,6 +55,21 @@ body{
   font-family: 'Kalam', cursive;
 }
 
+.data-studio{
+  position: relative;
+  height: 75px;
+  left: 225px;
+  width: 200px;
+  top: 50px;
+  border-radius: 10px;
+  color: #e8eff6;
+  background-color: #55A6FF;
+  font-family: 'Nunito', sans-serif;
+}
+
+.data-studio:hover{
+  background-color: #0072F0;
+}
 
 
 
