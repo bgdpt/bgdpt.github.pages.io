@@ -65,6 +65,7 @@ body{
   color: #e8eff6;
   background-color: #55A6FF;
   font-family: 'Nunito', sans-serif;
+  border: none;
 }
 
 .data-studio:hover{
